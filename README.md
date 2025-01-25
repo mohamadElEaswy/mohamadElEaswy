@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **English, and CS50.**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://mohamedeaswy.com/)
+- 👨‍💻 All of my projects are available at [MohamedEaswy.com](https://mohamedeaswy.com/)
 
 - 💬 Ask me about **Dart, Flutter, and Mobile Developments.**
 
