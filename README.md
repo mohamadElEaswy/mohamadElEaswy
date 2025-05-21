@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **muhamadeleaswy535@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eRuScEBNvRknuhEfPpyLPWCh2j2zRF_O/view?usp=sharing](https://drive.google.com/file/d/1eRuScEBNvRknuhEfPpyLPWCh2j2zRF_O/view?usp=sharing)
+- 📄 Know about my experiences [https://mohamedeaswy.com/media/files/fc284a2e78df49a3ec0dfc8fe2c164780393978d/5c](https://mohamedeaswy.com/media/files/fc284a2e78df49a3ec0dfc8fe2c164780393978d/5c)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
