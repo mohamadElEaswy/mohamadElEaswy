@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/mel3easwy" target="blank"><img src="https://img.shields.io/twitter/follow/mel3easwy?logo=twitter&style=for-the-badge" alt="mel3easwy" /></a> </p>
 
-- 🌱 I’m currently learning **English, and CS50.**
 
 - 👨‍💻 All of my projects are available at [MohamedEaswy.com](https://mohamedeaswy.com/)
 
@@ -12,6 +11,33 @@
 - 📫 How to reach me **muhamadeleaswy535@gmail.com**
 
 - 📄 Know about my experiences [mohamedeaswy.com/cv](https://mohamedeaswy.com/media/files/fc284a2e78df49a3ec0dfc8fe2c164780393978d/5c)
+## About Me
+
+Hello! I'm Mohamad ElEaswy, a Mobile Application Developer specializing in Flutter. With over 2 years of professional experience, I have a strong passion for building robust, user-friendly, and high-performance mobile applications for both Android and iOS platforms.
+
+### My Expertise
+
+- **Languages & Frameworks:** Dart, Flutter, OOP
+- **State Management:** Riverpod, Provider, BLoC
+- **Backend & APIs:** Firebase (Crashlytics, Analytics, Push Notifications, Authentication), Supabase, RESTful APIs
+- **Tools:** Android Studio, Xcode, Figma, Postman, Git
+- **Features:** Push notifications, Apple Pay, Payment integrations, Google Maps, Local Storage (sqflite, get_storage)
+- **Practices:** Clean Code, CI/CD, App Store Deployment
+
+### Achievements
+
+- Published more than 8 mobile apps to the App Store and Google Play, including [Ashom](https://apps.apple.com/us/app/%D8%A3%D8%B3%D9%87%D9%85/id6464127393), a feature-rich app leveraging Firebase and Supabase backend solutions.
+- Experience in end-to-end app development: from UI/UX design (using Figma), backend integration, to deployment and maintenance.
+
+### Portfolio
+
+Explore my work and projects at: [mohamedeaswy.com](https://mohamedeaswy.com/)
+
+---
+
+I hold a degree in Agricultural Engineering, but my passion for technology and problem-solving led me to pursue a career in mobile development. I thrive on crafting elegant, efficient solutions and am always eager to learn and adopt new technologies.
+
+If you're looking for a reliable, professional, and creative developer with a minimalist touch—let's connect!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
